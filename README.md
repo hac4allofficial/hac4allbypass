@@ -13,9 +13,4 @@ You shall not misuse the information to gain unauthorised access. However you ma
 
 
 
-[Releases](https://github.com/hac4allofficial/Elite-Hackbar/releases)
-
 - [Elite HackBar v1](https://github.com/hac4allofficial/Elite-Hackbar/releases/download/HackBar/Elite-Hackbar_v1.xpi)
-- [Elite HackBar v2](https://github.com/hac4allofficial/Elite-Hackbar/releases/download/HackBar/Elite.Hackbar-Pro-v2.xpi)
-- [Elite HackBar v3](https://github.com/hac4allofficial/Elite-Hackbar/releases/download/HackBar/Elite.Hackbar-Pro-v3.xpi)
-- [Elite HackBar v4](https://github.com/hac4allofficial/Elite-Hackbar/releases/download/HackBar/Elite.Hackbar-Pro-v4.xpi) `latest`
